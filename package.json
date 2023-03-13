@@ -1,0 +1,11 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tjcichra/GraphQL.git",
+  "author": "tjcichra <8120075+tjcichra@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
+}
